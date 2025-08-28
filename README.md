@@ -4,7 +4,7 @@ Product Dataset (product based): The objective of this EDA is to study customer 
 patterns using one month of sales data for selected top-selling products in a private retail company.
 
 # 🗃️Datasets Used :
-# EDA1 : 
+# EDA2 : 
 1. 'train.csv' : having Customer purchase records including customer details, product categories and
    purchase amount
 3. 'test.csv' : also having Customer purchase records including customer details, product categories
