@@ -60,9 +60,28 @@ patterns using one month of sales data for selected top-selling products in a pr
 # 📊Visualizations Included
    
    ->	Countplots (Gender, Age, Occupation, Stay Duration)
+   
    -> Pie charts (City Category, Marital Status)
 
+# ⚛️Tech Stack: 
+
+   -> Python (Pandas, NumPy)
+
+   -> Matplotlib, Seaborn
+
+   -> Jupyter Notebook
+
+ # 👉How to Run 
+   
+   -> Clone repo
+
+   -> Install requirements
+
+   -> Run notebook   
+
 # 👥 Collaborators
+
+   Part of WeUpSkill Mentorship Program
 
    Special thanks to:
 
